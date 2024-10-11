@@ -1,0 +1,25 @@
+{
+  "here": "burada",
+  "greet": "Sevgili",
+  "click": "Lütfen tıklayın",
+  "greet_hello": "Merhaba orada,",
+  
+  "error": {
+    "user_not_found": "Kullanıcı bulunamadı.",
+    "invalid_credentials": "Geçersiz kullanıcı adı veya şifre.",
+    "email_already_exists": "Bu e-posta zaten kayıtlı.",
+    "password_too_short": "Şifre en az 6 karakter olmalıdır.",
+    "field_required": "{field} zorunludur.",
+    "invalid_email_format": "E-posta formatı geçersiz.",
+    "token_expired": "Token süresi dolmuş.",
+    "access_denied": "Erişim reddedildi.",
+    "server_error": "Beklenmedik bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+  },
+
+  "success": {
+    "registration_success": "Kayıt başarılı. Hesabınızı doğrulamak için lütfen e-postanızı kontrol edin.",
+    "password_changed": "Şifre başarıyla değiştirildi.",
+    "profile_updated": "Profil başarıyla güncellendi.",
+    "item_added": "Öğe başarıyla eklendi."
+  }
+}

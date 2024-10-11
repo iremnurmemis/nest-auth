@@ -1,0 +1,25 @@
+{
+  "here": "here",
+  "greet": "Dear",
+  "click": "Please click",
+  "greet_hello": "Hello there,",
+  
+  "error": {
+    "user_not_found": "User not found.",
+    "invalid_credentials": "Invalid username or password.",
+    "email_already_exists": "This email is already registered.",
+    "password_too_short": "Password must be at least 6 characters long.",
+    "field_required": "{field} is required.",
+    "invalid_email_format": "Email format is invalid.",
+    "token_expired": "The token has expired.",
+    "access_denied": "Access denied.",
+    "server_error": "An unexpected error occurred. Please try again later."
+  },
+
+  "success": {
+    "registration_success": "Registration successful. Please check your email to verify your account.",
+    "password_changed": "Password changed successfully.",
+    "profile_updated": "Profile updated successfully.",
+    "item_added": "Item added successfully."
+  }
+}
